@@ -19,7 +19,7 @@ Disciplina dos Cursos de *Ciências da Computação* e afins da [**UNINOVE**](ht
 
 ## Professores
 
-* [Prof. Dr. José Eduardo Storopoli](https://storopoli.github.io) - [Currículo *Lattes*](http://lattes.cnpq.br/2281909649311607) - [ORCID](https://orcid.org/0000-0002-0559-5176)
+* [Prof. Dr. José Eduardo Storopoli](https://storopoli.io) - [Currículo *Lattes*](http://lattes.cnpq.br/2281909649311607) - [ORCID](https://orcid.org/0000-0002-0559-5176)
 
 * Prof. Dr. Edson Melo de Souza - [Currículo *Lattes*](http://lattes.cnpq.br/2641658716558510) - [ORCID](https://orcid.org/0000-0002-5891-4767)
 
@@ -33,7 +33,7 @@ Para configurar um ambiente local:
 2. Acesse o diretório: `cd ciencia-de-dados`
 3. Instale as bibliotecas necessárias: `pip install -r .binder/requirements.txt` ou `conda env create -f .binder/environment.yml`
 
-* **[Notebooks](https://github.com/storopoli/ciencia-de-dados/tree/master/notebooks)**: Jupyter Notebooks das aulas
+* **[Notebooks](https://github.com/storopoli/ciencia-de-dados/tree/main/notebooks)**: Jupyter Notebooks das aulas
 
 ## Notebooks
 
